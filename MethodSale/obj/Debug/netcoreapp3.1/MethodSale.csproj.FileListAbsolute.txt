@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\obj\Debug\netcoreapp3.1\MethodSale.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\obj\Debug\netcoreapp3.1\MethodSale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\obj\Debug\netcoreapp3.1\MethodSale.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\obj\Debug\netcoreapp3.1\MethodSale.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\obj\Debug\netcoreapp3.1\MethodSale.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\bin\Debug\netcoreapp3.1\MethodSale.exe
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\bin\Debug\netcoreapp3.1\MethodSale.deps.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\bin\Debug\netcoreapp3.1\MethodSale.runtimeconfig.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\bin\Debug\netcoreapp3.1\MethodSale.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\bin\Debug\netcoreapp3.1\MethodSale.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\bin\Debug\netcoreapp3.1\MethodSale.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\obj\Debug\netcoreapp3.1\MethodSale.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\obj\Debug\netcoreapp3.1\MethodSale.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\Method Sale\MethodSale\MethodSale\obj\Debug\netcoreapp3.1\MethodSale.genruntimeconfig.cache
